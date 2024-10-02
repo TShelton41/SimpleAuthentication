@@ -22,10 +22,22 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 2.  After you hit start and you get errors. Make sure you add Clerk to your project. You can signup for Clerk here, [text](https://clerk.com/).
 
 ```bash
- npm install @clerk/clerk-expo
+   npm install @clerk/clerk-expo
 ```
 
 3. If you haven't yet don't forget to add your .evn file and put your environment variable you get from Clerk in there. You will have to restart your project for this file to load.
+
+4. We are also working with React Native Paper components. You can find it here,[text](https://reactnativepaper.com/).
+
+   ```bash
+      npm install react-native-paper
+      npm install react-native-safe-area-context
+      npm install react-native-vector-icons
+   ```
+
+5. Your project should be running at this point. You will not have authentication added at this point, but it will run.
+
+### These instructions will show you how to load your project in mobile.
 
 In the output, you'll find options to open the app in a
 
