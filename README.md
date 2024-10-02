@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# This is a starter repo for Clerk Authentication
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -15,6 +15,17 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+
+## These are the instructions to further develop your app
+
+1.  We have already reset the app
+2.  After you hit start and you get errors. Make sure you add Clerk to your project. You can signup for Clerk here, [text](https://clerk.com/).
+
+```bash
+ npm install @clerk/clerk-expo
+```
+
+3. If you haven't yet don't forget to add your .evn file and put your environment variable you get from Clerk in there. You will have to restart your project for this file to load.
 
 In the output, you'll find options to open the app in a
 
