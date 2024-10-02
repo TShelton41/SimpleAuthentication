@@ -1,8 +1,8 @@
-# This is a starter repo for Clerk Authentication
+# This starter repo is for Clerk Authentication
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## Get started Using This Project
 
 1. Install dependencies
 
@@ -19,7 +19,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## These are the instructions to further develop your app
 
 1.  We have already reset the app
-2.  After you hit start and you get errors. Make sure you add Clerk to your project. You can signup for Clerk here, [text](https://clerk.com/).
+2.  After you hit start and you get errors. Make sure you add Clerk to your project. You can signup for Clerk, [here](https://clerk.com/).
 
 ```bash
    npm install @clerk/clerk-expo
@@ -27,7 +27,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 3. If you haven't yet don't forget to add your .evn file and put your environment variable you get from Clerk in there. You will have to restart your project for this file to load.
 
-4. We are also working with React Native Paper components. You can find it here,[text](https://reactnativepaper.com/).
+4. We are also working with React Native Paper components. You can find it,[here](https://reactnativepaper.com/).
 
    ```bash
       npm install react-native-paper
